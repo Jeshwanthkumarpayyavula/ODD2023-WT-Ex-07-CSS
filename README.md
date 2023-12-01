@@ -87,12 +87,14 @@ footer {
 # Output:
 light mode:
 
-![image](https://github.com/Jeshwanthkumar07/ODD2023-WT-Ex-07-CSS/assets/142886483/58b83575-127e-4d65-9d3e-5f3c278ae7f3)
+![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/acb65074-b6f5-4761-84af-c1e9069af9e9)
+
 
 Dark mode:
 
-![image](https://github.com/Jeshwanthkumar07/ODD2023-WT-Ex-07-CSS/assets/142886483/3f2e0d9b-ff70-43fc-b104-76e706e94915)
+![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/228f998a-9c01-49a1-9dd8-07a584378391)
 
 Smaller screen:
 
-![WhatsApp Image 2023-12-01 at 20 35 37_1390f1c0](https://github.com/Jeshwanthkumar07/ODD2023-WT-Ex-07-CSS/assets/142886483/b8af7e18-e4f3-4d1d-8409-91eaae17294b)
+![WhatsApp Image 2023-12-01 at 20 35 37_c492c632](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/7dada9ac-1b43-4e71-b705-977f9948dcd9)
+
