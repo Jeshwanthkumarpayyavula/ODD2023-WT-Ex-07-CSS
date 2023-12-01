@@ -1,6 +1,6 @@
 # Ex-07-CSS
 # Name: Jeshwanth kumar
-# Ref.no;23002519
+# Ref.no:23002519
 # Aim:
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
 
@@ -31,7 +31,7 @@ media.html:
     <link rel="stylesheet" href="pj.css">
 </head>
 <body>
-    <a href="https://github.com/Jeshwanthkumar07/ODD2023-WT-Ex-07-CSS.git"></a>
+    <a href="https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS.git"></a>
     <p>
       <legend align="center"><big><b>This is My Web Page</b></big>
     </p>
