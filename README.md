@@ -247,7 +247,7 @@ a {
         
         }
 ```
-# Output:
+# Output(iv):
 min-width=800px:
 ![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/4911c611-af9d-44cf-bc8a-f0f0044a1b10)
 
@@ -300,7 +300,7 @@ a {
         
         }
 ```
-# Output:
+# Output(v):
 default:
 ![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/12522601-a6fd-45eb-9ca0-d9c59ea131be)
 non essential:
@@ -343,7 +343,7 @@ a {
 }
 
 ```
-# Output:
+# Output(vi):
 lightmode:
 ![image](https://github.com/Jeshwanthkumarpayyavula/ODD2023-WT-Ex-07-CSS/assets/145742402/a6920150-8575-4ae9-8081-e91fd222ddb4)
 
